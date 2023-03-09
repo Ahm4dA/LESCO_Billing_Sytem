@@ -1,0 +1,4 @@
+﻿  Control.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\conio.h(19,1): error C2144: syntax error: 'int' should be preceded by ';'
+  Menu.cpp
+  Generating Code...

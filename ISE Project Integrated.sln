@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ISE Project Integrated", "ISE Project Integrated.vcxproj", "{B88F7AC1-738B-47AB-915E-3BFF2718C48B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B88F7AC1-738B-47AB-915E-3BFF2718C48B}.Debug|x64.ActiveCfg = Debug|x64
+		{B88F7AC1-738B-47AB-915E-3BFF2718C48B}.Debug|x64.Build.0 = Debug|x64
+		{B88F7AC1-738B-47AB-915E-3BFF2718C48B}.Debug|x86.ActiveCfg = Debug|Win32
+		{B88F7AC1-738B-47AB-915E-3BFF2718C48B}.Debug|x86.Build.0 = Debug|Win32
+		{B88F7AC1-738B-47AB-915E-3BFF2718C48B}.Release|x64.ActiveCfg = Release|x64
+		{B88F7AC1-738B-47AB-915E-3BFF2718C48B}.Release|x64.Build.0 = Release|x64
+		{B88F7AC1-738B-47AB-915E-3BFF2718C48B}.Release|x86.ActiveCfg = Release|Win32
+		{B88F7AC1-738B-47AB-915E-3BFF2718C48B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E6948E2-4A57-4116-BB41-E66232EE3C11}
+	EndGlobalSection
+EndGlobal
